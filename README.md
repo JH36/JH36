@@ -1,6 +1,6 @@
 - 👋 Hi y'all! I’m Jennifer Holmes, you can call me Jenn! I'm a bioinformatician located in Cleveland and I love working with WGS & NGS, proteomics, plant genomics and machine learning!
 - 🌱 I’m currently learning Nextflow, Snakemake, Django, PostgreSQL, and HTML. I'm also playing around with Tableau and PowerBI
-- 👩‍💻 Programming Languages I love: R, Perl, Python, C++, C#, C, SQL and Java. 
+- 👩‍💻 Programming Languages I love: R, Perl, Python, C++, C#, C, t.SQL/mysql and Java. 
 - 💞️ I’m looking to collaborate on developing pipelines to make WGS and NGS easier and allow for easier integration! I've worked with bacteria, plants, viruses and cancer - I enjoy the challenge of creating visualizations and pipelines to help others enjoy data and learn about bioinformatics/computational biology.
 - 🌽 Ask me about: Plant Genomics, Plant WGS/NGS proteomics, Visualizations (Example: Circos, Nextstrain)
 - 📫 How to reach me ... Linkedin: https://www.linkedin.com/in/jenniferholmes1345/ ; email: JChaser3@roadrunner.com 
